@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Itisha Naukudkar | Web Developer",
   description:
-    "Portfolio of Itisha Naukudkar, a full stack developer building responsive web applications with React, Next.js and TypeScript.",
+    "Portfolio of Itisha Naukudkar, a web developer building responsive web applications with React, Next.js and TypeScript.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
